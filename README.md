@@ -1,4 +1,4 @@
-# emby-4.5.4.0-xss-poc
+# Emby-4.5.4.0-xss-poc
 
 1.Browse emby server url :**"http://192.168.201.3:8096/web/index.html#!/log?name=embyserver.txt"** which can show you the log files.
 
@@ -8,7 +8,7 @@
 
 3.Browse the edited url and webpage will show an alert dialog (U may have to refresh 2-3 times).
 
-# emby-4.5.4.0-xss-steal-admin-api-exp
+# Emby-4.5.4.0-xss-steal-admin-api-exp
 
 1.Put emby.js in directory and run "python -m SimpleHTTPServer" to run a web server.
 
@@ -20,4 +20,6 @@
 
 4.You can use admin api to add user or change password or any thing need privilege. 
 
-Referrer: http://swagger.emby.media/?url=http://192.168.201.3:8096/emby/openapi&api_key=902c563ed3184ff4b1492aca4a5644de#/
+# Referrer: 
+
+http://swagger.emby.media/?url=http://192.168.201.3:8096/emby/openapi&api_key=902c563ed3184ff4b1492aca4a5644de#/
