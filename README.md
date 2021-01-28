@@ -17,3 +17,7 @@
 3.Browse the edited url and page will load emby.js from SimpleHTTPServer and send the api value to SimpleHTTPServer.
 
 ![image](https://raw.githubusercontent.com/EstamelGG/emby-4.5.4.0-xss-exp/main/WX20210128-174426%402x.png)
+
+4.You can use admin api to add user or change password or any thing need privilege. 
+
+Referrer: http://swagger.emby.media/?url=http://192.168.201.3:8096/emby/openapi&api_key=902c563ed3184ff4b1492aca4a5644de#/
