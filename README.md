@@ -16,3 +16,4 @@
 
 3.Browse the edited url and you will load emby.js from SimpleHTTPServer and send the api value to SimpleHTTPServer.
 
+![image](https://raw.githubusercontent.com/EstamelGG/emby-4.5.4.0-xss-exp/main/WX20210128-174426%402x.png)
